@@ -22,16 +22,12 @@
     margin: 17px;
 }
 .btn{
-    color: lightcoral;
-    background-color: white;
+    color: white;
+    background: linear-gradient(45deg, red, blue);
+    border: none;
     padding: 15px 30px;
-    border: 1px solid lightcoral;
     border-radius: 40px;
     margin: 40px 0 20px 0;
-}
-.btn:hover{
-    color: white;
-    background: linear-gradient(135deg, orange 60%, cyan);
 }
 @media screen and (max-width:600px){
     .main{
