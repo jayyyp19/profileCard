@@ -1,6 +1,4 @@
-/* body {
-  background: linear-gradient(45deg, red, blue);
-} */
+
 .main{
     width: 500px;
     border: 1px solid transparent;
@@ -20,6 +18,9 @@
 }
 .socialmediaicons a{
     margin: 17px;
+}
+.btn a{
+  text-decoration:none;
 }
 .btn{
     color: white;
